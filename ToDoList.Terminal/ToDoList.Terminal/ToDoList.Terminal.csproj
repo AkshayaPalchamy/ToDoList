@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\ToDoList.Data\ToDoList.Data.csproj" />
+    <ProjectReference Include="..\ToDoList.Common\ToDoList.Common.csproj" />
+  </ItemGroup>
+
 </Project>

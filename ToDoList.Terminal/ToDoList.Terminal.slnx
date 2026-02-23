@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../ToDoList.Data/ToDoList.Data.csproj" />
-  <Project Path="../ToDoList.Test/ToDoList.Test.csproj" />
+  <Project Path="../ToDoList.Test/ToDoList.Test.csproj" Id="7467a6f4-243e-4b83-88a4-a0cde348b280" />
+  <Project Path="ToDoList.Common/ToDoList.Common.csproj" Id="e2e7cdbb-920d-4876-bf07-04093d0f19f7" />
   <Project Path="ToDoList.Terminal/ToDoList.Terminal.csproj" />
 </Solution>
