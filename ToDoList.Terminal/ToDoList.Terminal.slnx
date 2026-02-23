@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../ToDoList.Data/ToDoList.Data.csproj" />
+  <Project Path="../ToDoList.Test/ToDoList.Test.csproj" />
+  <Project Path="ToDoList.Terminal/ToDoList.Terminal.csproj" />
+</Solution>
