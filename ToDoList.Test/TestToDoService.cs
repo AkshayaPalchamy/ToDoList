@@ -1,4 +1,5 @@
 ﻿using ToDoList.Data;
+using ToDoList.Logic;
 
 namespace ToDoList.Test
 {
